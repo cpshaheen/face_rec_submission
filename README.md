@@ -1,5 +1,6 @@
 Face Recognition Challenge
 
+Link to saved models (since GH has file size limit): https://drive.google.com/file/d/1SYKCOrtsR9wiTPRqzvTtgm3HLz_qBz3h/view?usp=sharing
 
 Since I was using a remote server to speed up training I was unable to properly develop a jupyter notebook in parallel. However I can summarize my steps and what I did over the 12 hours or so I spent actively working on this. 
 
